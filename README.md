@@ -1,1 +1,1 @@
-# YBI-intternship
+# YBI-internship
